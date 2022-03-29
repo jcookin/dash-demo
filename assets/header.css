@@ -11,6 +11,29 @@
   text-align: center;
 }
 
+div.components-all {
+    height: 60;
+    line-height: 60px;
+    border-bottom: thin rgb(146, 136, 240) solid;
+    text-align: center;
+    float: left;
+    margin: 80px;
+    /* line-height: 100px; */
+    line-break: auto;
+}
+
 body {
   background-color: rgb(49, 49, 49);
+}
+
+#congregata-embed {
+    width: 97%;
+    height: 1200px;
+    margin: 1%;
+}
+
+#maples-embed {
+    width: 97%;
+    height: 1200px;
+    margin: 1%;
 }

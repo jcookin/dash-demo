@@ -7,7 +7,11 @@ h1, h2, h3, h4, h5, h6 {
 #subtitle {
   color: rgb(55, 165, 55)
 }
-.components {
+.components-all {
   color: white
+}
+
+.dropdowns {
+    color: black
 }
 

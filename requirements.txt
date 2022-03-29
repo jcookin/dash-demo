@@ -1,2 +1,4 @@
 dash==2.3.0
 pandas==1.2.3
+plotly-express==0.4.1
+Werkzeug==2.0.0  
